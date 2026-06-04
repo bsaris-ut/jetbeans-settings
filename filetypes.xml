@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping pattern="sidekiq-pro-setup" type="AUTO_DETECTED" />
       <mapping pattern="workflows" type="AUTO_DETECTED" />
@@ -13,12 +13,13 @@
       <mapping pattern=".pryrc" type="PLAIN_TEXT" />
       <mapping pattern=".irbrc" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping ext="development-ssl" type="PLAIN_TEXT" />
-      <mapping ext="foreman" type="PLAIN_TEXT" />
+      <mapping ext="development-https" type="PLAIN_TEXT" />
       <mapping ext="br" type="PLAIN_TEXT" />
       <mapping ext="development-resque" type="PLAIN_TEXT" />
+      <mapping ext="foreman" type="PLAIN_TEXT" />
+      <mapping ext="development-ssl" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
-      <mapping ext="development-https" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env" type=".env file" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
