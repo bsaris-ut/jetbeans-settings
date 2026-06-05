@@ -17,6 +17,11 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="GotoTest" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta f12" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
+  <action id="NextWindow" />
   <action id="ServiceView.ShowServices" />
   <action id="Terminal.NewTab" />
   <action id="Vcs.UpdateProject" />
