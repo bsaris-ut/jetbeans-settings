@@ -19,7 +19,7 @@
       <mapping ext="foreman" type="PLAIN_TEXT" />
       <mapping ext="development-ssl" type="PLAIN_TEXT" />
       <mapping ext="development" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env" type=".env file" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
