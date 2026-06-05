@@ -1,5 +1,7 @@
 <application>
-  <component name="LafManager">
-    <laf themeId="Darcula" />
+  <component name="LafManager" autodetect="true">
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="Darcula" scheme="Bob's Monokai" />
+    </lafs-to-previous-schemes>
   </component>
 </application>
