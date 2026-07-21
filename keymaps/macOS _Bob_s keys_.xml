@@ -4,6 +4,15 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="Console.TableResult.CopyAggregatorResult" />
+  <action id="CopyAbsolutePath" />
+  <action id="CopyPathFromRepositoryRootProvider">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
+  <action id="CopyPaths" />
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift meta alt g" />
+  </action>
   <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoHome" />
@@ -22,7 +31,10 @@
     <keyboard-shortcut first-keystroke="meta back_quote" />
   </action>
   <action id="NextWindow" />
+  <action id="RemoteHostView.CopyPaths" />
   <action id="ServiceView.ShowServices" />
   <action id="Terminal.NewTab" />
   <action id="Vcs.UpdateProject" />
+  <action id="WelcomeScreen.CopyProjectPath" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
 </keymap>
