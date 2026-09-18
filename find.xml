@@ -36,8 +36,8 @@
     <mask>.html.erb</mask>
     <mask>.rb</mask>
     <mask>*.js,*.jsx</mask>
-    <mask>*.jsx</mask>
     <mask>*.html.erb</mask>
     <mask>*.rb</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
