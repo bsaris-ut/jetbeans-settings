@@ -1,0 +1,9 @@
+<application>
+  <component name="DoNotAskAppManager">
+    <option name="idToDisplayName">
+      <map>
+        <entry key="Spring" value="Spring" />
+      </map>
+    </option>
+  </component>
+</application>
