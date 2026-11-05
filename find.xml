@@ -35,5 +35,6 @@
     <mask>*.html.erb</mask>
     <mask>*.jsx</mask>
     <mask>*.rb</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
